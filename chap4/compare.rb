@@ -29,9 +29,3 @@
 #end
 
 
-##ex3
-puts ("Enter x value")
-x = gets.to_i
-puts ("Enter y value")
-#y = gets.to_i
-
